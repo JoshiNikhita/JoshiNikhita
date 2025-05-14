@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoshiNikhita
-- 👀 I’m interested in product managing
+- 👀 I’m interested in product managment 
 - 🌱 I’m currently learning python and java as a part of btech cse
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email or text or just send a code 😄
